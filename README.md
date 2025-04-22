@@ -27,8 +27,8 @@ A test script (`test_scanner.py`) is included to demonstrate how to use the main
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-folder>
+    git clone https://github.com/SorenaDashti/Scanner.git
+    cd  Scanner
     ```
 2.  **Install the required libraries:**
     ```bash
